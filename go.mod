@@ -1,3 +1,3 @@
-module Syzkaller_package_cmr
+module syzkaller_package_cmr
 
 go 1.18
